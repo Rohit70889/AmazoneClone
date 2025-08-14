@@ -131,4 +131,29 @@ span {
 
 .pannel-ops p {
     display: inline;
+    margin-left: 15px;
+}
+
+.pannel-ops {
+    width: 90%;
+    font-size: 0.85rem;
+}
+
+/* Hero section */
+
+
+.hero-section {
+    background-image: url(ama1.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.hero-msg {
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
