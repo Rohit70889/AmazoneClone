@@ -190,7 +190,6 @@ span {
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 2.5rem;
-    margin-right: 20px;
 }
 
 .box-content {
@@ -200,4 +199,75 @@ span {
 
 .box-content p {
     color: #2162a1;
+}
+
+/* footer */
+
+.foot-pannelone {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    margin-top: 15px;
+}
+
+
+.foot-pannel2 {
+    background-color: #0e141b;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+ul {
+    margin-top: 25px;
+}
+
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    columns: #dddddd;
+}
+
+.foot-pannel3 {
+    background-color: #0e141b;
+    color: white;
+    border-top: 0.5px solid rgb(81, 77, 77);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    background-image: url("amzonicon.png");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+
+/* pannel4 */
+
+.foot-pannel4 {
+    background-color: #0e141b;
+    color: white;
+    height: 80px;
+}
+
+.pages {
+font-size: 0.7rem;
+text-align: center;
+padding-top: 25px;
+padding-right: 10px;
+}
+.copyright {
+font-size: 0.7rem;
+text-align: center;
+padding-top: 6px;
 }
